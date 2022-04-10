@@ -1,0 +1,53 @@
+{
+  "recommendations": [
+    // Enabled globally
+    "patbenatar.advanced-new-file",
+    "formulahendry.auto-rename-tag",
+    "naumovs.color-highlight",
+    "dbaeumer.vscode-eslint",
+    "GitHub.copilot",
+    "GitHub.github-vscode-theme",
+    "yzhang.markdown-all-in-one",
+    "csstools.postcss",
+    "esbenp.prettier-vscode",
+    "jasonnutter.search-node-modules",
+    "ms-vscode.sublime-keybindings",
+    "bradlc.vscode-tailwindcss",
+    "vscode-icons-team.vscode-icons",
+    // VueJS
+    "johnsoncodehk.vscode-typescript-vue-plugin",
+    "johnsoncodehk.volar",
+    "octref.vetur",
+    "sdras.vue-vscode-snippets",
+    // ReactJS
+    "dsznajder.es7-react-js-snippets",
+    "xabikos.ReactSnippets",
+    "styled-components.vscode-styled-components",
+    // PHP & Laravel
+    "austenc.laravel-blade-spacer",
+    "onecentlin.laravel-blade",
+    "bmewburn.vscode-intelephense-client",
+    "MehediDracula.php-namespace-resolver",
+    // Dart & Flutter
+    "Dart-Code.dart-code",
+    "Dart-Code.flutter",
+    // GraphQL
+    "GraphQL.vscode-graphql",
+    "mquandalle.graphql",
+    // Python, Flask, and Django
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "wholroyd.jinja",
+    // Docker
+    "ms-azuretools.vscode-docker",
+    "ms-vscode-remote.remote-wsl",
+    // Optional
+    "icrawl.discord-vscode",
+    "WakaTime.vscode-wakatime",
+    "EditorConfig.EditorConfig",
+    "andys8.jest-snippets",
+    "Orta.vscode-jest",
+    "ritwickdey.LiveServer",
+    "ms-vsliveshare.vsliveshare"
+  ]
+}
